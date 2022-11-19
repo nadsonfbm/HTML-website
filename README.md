@@ -1,3 +1,3 @@
 # HTML-website
 
-link: https://nadsonfbm.github.io/HTML-website/
+link: https://nadsonfbm.github.io/HTML-website/index.html
